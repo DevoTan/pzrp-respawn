@@ -10,3 +10,4 @@ AddRecoverable(RecoverableTraits);
 AddRecoverable(RecoverableRecipes);
 AddRecoverable(RecoverableOccupation);
 AddRecoverable(RecoverableWeight);
+AddRecoverable(RecoverableLanguages);
