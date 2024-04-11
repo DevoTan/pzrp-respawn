@@ -1,6 +1,6 @@
 Respawn = {};
 
-Respawn.Id = "respawn";
+Respawn.Id = "pzrp-respawn";
 Respawn.Name = "Respawn";
 
 Respawn.OptionsPath = "respawn-options.json";
