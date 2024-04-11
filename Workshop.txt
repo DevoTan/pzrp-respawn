@@ -1,16 +1,10 @@
 version=1
-id=2687842971
-title=Respawn
-description=New option to respawn the same character with skills and traits. Works in multiplayer.
-description=
-description=Changing the % of XP kept on respawn requires ModOptions for singleplayer, ModOptions is not required to change it in multiplayer.
-description=
-description=NOTE: The % XP is % of TOTAL XP, and you may lose levels if you drop below the required experience for them.
-description=
-description=For multiplayer the options file is "Zomboid/Lua/respawn-options.json". To change the XP kept change the XPRestored value to 1-20 for % XP, where XP kept is that value multiplied by 5. For example, 10 means 50% XP will be kept on respawn. The default value of 21 is "Last Level" where you lose progress to the next level but can never lose levels. Changing the config will require a restart to take effect.
-description=
-description=Multiplayer servers may need to disable AntiCheatProtectionType15 in the servertest.ini file to prevent players from getting kicked when respawning.
-description=
+id=3218709986
+title=Respawn [PZRP]
+description=[h1]Added recovering of Buffy's roleplay chat languages[/h1]
+description=[h2]Modification allowed under the MIT Licence[/h2]
 description=Source for the mod: https://github.com/StarkSilence/Respawn
-tags=Build 41;Multiplayer
+description=
+description=[url=https://theindiestone.com/forums/index.php/topic/2530-mod-permissions/?p=36476][img] https://i.imgur.com/ZiaTUWc.png[/img][/url]
+tags=Build 41;Misc
 visibility=public
